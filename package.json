@@ -4,6 +4,11 @@
   "description": "A library for managing disposable email inboxes.",
   "main": "src/Mailbox.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thelioo/ursa-mail.git"
+  },
+  "keywords": ["disposable", "email", "inbox", "library", "automation"],
   "type": "module",
   "dependencies": {
     "unique-names-generator": "^4.7.1"
